@@ -1,0 +1,18 @@
+body {
+    background-color: azure;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(150, 187, 150);
+    color: darkgreen;
+}
+
+main {
+    background-color: rgb(200, 223, 200);
+    margin: 2% 6% 2% 6%;
+    padding: 2% 4% 2% 4%;
+}
